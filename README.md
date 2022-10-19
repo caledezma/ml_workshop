@@ -1,2 +1,3 @@
-# ml_workshop
-Repo for intro to ML workshop with nPlan
+# nPlan's ML Workshop
+
+This workshop will introduce the basics of machine learning along with some practical examples.
