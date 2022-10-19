@@ -1,5 +1,6 @@
-numpy
-matplotlib
-jupyterlab
 ipykernel
+jupyterlab
+matplotlib
+numpy
+pandas
 # To install tensorflow follow the external guide as it depends on your OS
