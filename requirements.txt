@@ -3,4 +3,5 @@ jupyterlab
 matplotlib
 numpy
 pandas
+scikit-learn
 # To install tensorflow follow the external guide as it depends on your OS
